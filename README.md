@@ -1,6 +1,5 @@
 # NLW eSports - Trilha Explorer.
 
-![preview](https://glauberbispo.github.io/nlw-09-esport/.png)
 
 Projeto construido no evento Next Level Week da Rockeset.
 
